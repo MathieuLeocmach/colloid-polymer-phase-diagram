@@ -1,0 +1,4 @@
+# Include the README
+include readme.md
+include LICENSE.txt
+prune test
