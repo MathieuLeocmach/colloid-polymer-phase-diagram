@@ -39,4 +39,4 @@ plt.ylabel(r'$y$')
 plt.ylim(0,1.4)
 ```
 
-See [notebook/phase_diagram.ipynb](https://github.com/MathieuLeocmach/colloid-polymer-phase-diagram/colloid-polymer-phase-diagram/notebook/phase_diagram.ipynb) for more complete examples.
+See [notebook/phase diagram.ipynb](https://github.com/MathieuLeocmach/colloid-polymer-phase-diagram/blob/main/colloid_polymer_phase_diagram/notebooks/phase%20diagram.ipynb) for more complete examples.
