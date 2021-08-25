@@ -38,3 +38,5 @@ plt.xlabel(r'$\varphi$')
 plt.ylabel(r'$y$')
 plt.ylim(0,1.4)
 ```
+
+See (notebook/phase_diagram.ipynb) for more complete examples.
