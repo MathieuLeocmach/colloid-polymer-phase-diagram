@@ -17,7 +17,7 @@ setup(
     description='A Python module to compute the phase behaviour of Colloid+Polymer mixture',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/MathieuLeocmach/colloid_polymer_phase_diagram',
+    url='https://github.com/MathieuLeocmach/colloid-polymer-phase-diagram',
     author='Mathieu Leocmach',
     author_email='mathieu.leocmach@univ-lyon1.fr',  # Optional
     packages=["colloid_polymer_phase_diagram"],
